@@ -51,6 +51,7 @@
         "com.instagram.android",
         "com.whatsapp",
         "com.snapchat.android",
+        "com.android.chrome",
         "com.google.android.apps.maps"
     ],
     "rejectList": [
