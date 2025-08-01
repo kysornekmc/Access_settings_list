@@ -52,6 +52,7 @@
         "com.snapchat.android",
         "com.android.chrome",
         "xyz.nry2025.ligram",
+        "ProjectInsight.InsightBox",
         "com.google.android.apps.maps"
     ],
     "rejectList": [
