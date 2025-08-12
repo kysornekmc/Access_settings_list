@@ -71,6 +71,7 @@
         "com.gitlab.android",
         "com.nytimes.android",
         "com.microsoft.copilot",
+        "org.telegram.messenger.web",
         "com.bbc.news",
         "com.google.android.apps.drive",
         "com.google.android.apps.photos",
