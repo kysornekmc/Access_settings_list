@@ -76,7 +76,8 @@
         "com.google.android.apps.drive",
         "com.google.android.apps.photos",
         "com.google.android.talk",
-        "com.google.android.apps.maps"
+        "com.google.android.apps.maps",
+        "mark.via"
     ],
     "rejectList": [
         "com.huaxiaozhu.rider",
