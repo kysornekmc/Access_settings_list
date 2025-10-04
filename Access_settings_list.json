@@ -19,7 +19,6 @@
         "com.android.providers.downloads.ui",
         "com.android.providers.downloads",
         "com.sec.android.app.sbrowser",
-        "com.google.android.webview",
         "com.myfollow.clash",
         "com.nebula.clashmi",
         "com.gtxfury.flyclash.meta",
@@ -80,6 +79,7 @@
         "mark.via"
     ],
     "rejectList": [
+        "com.google.android.webview",
         "com.huaxiaozhu.rider",
         "com.tencent.androidqqmail",
         "cn.gov.tax.its",
