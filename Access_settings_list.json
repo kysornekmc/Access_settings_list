@@ -104,7 +104,7 @@
         "org.videolan.vlc",
         "com.reddit.frontpage", 
         "com.google.android.apps.credentialmanager",
-        "com.github.dyhkwong.sagernet"
+        "com.github.dyhkwong.sagernet",
         "mark.via"
     ],
     "rejectList": [
