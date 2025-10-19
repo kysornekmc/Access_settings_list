@@ -102,7 +102,9 @@
         "com.amazon.mShop.android.shopping",
         "com.ebay.mobile",
         "org.videolan.vlc",
-        "com.reddit.frontpage",        
+        "com.reddit.frontpage", 
+        "com.google.android.apps.credentialmanager",
+        "com.github.dyhkwong.sagernet"
         "mark.via"
     ],
     "rejectList": [
