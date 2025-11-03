@@ -105,7 +105,8 @@
         "com.reddit.frontpage", 
         "com.google.android.apps.credentialmanager",
         "com.github.dyhkwong.sagernet",
-        "mark.via"
+        "mark.via",
+        "com.android.settings"
     ],
     "rejectList": [
         "com.google.android.webview",
