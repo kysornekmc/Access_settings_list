@@ -106,7 +106,12 @@
         "com.google.android.apps.credentialmanager",
         "com.github.dyhkwong.sagernet",
         "mark.via",
-        "com.android.settings"
+        "com.android.settings",
+        "com.internet.tvbrowser",
+        "com.google.android.apps.cloudconsole",
+        "com.google.android.keep",
+        "com.google.android.contacts",
+        "plus.yumeyuka.yumebox.alpha"        
     ],
     "rejectList": [
         "com.google.android.webview",
