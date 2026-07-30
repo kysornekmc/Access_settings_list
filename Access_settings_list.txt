@@ -121,3 +121,4 @@ com.google.earth
 top.yukonga.mishka
 com.baidu.input
 com.tencent.androidqqmail
+com.follow.clashx
