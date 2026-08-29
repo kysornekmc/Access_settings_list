@@ -122,3 +122,4 @@ top.yukonga.mishka
 com.tencent.androidqqmail
 com.follow.clashx
 ws.stash.app
+com.apkpure.aegon
