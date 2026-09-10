@@ -124,3 +124,4 @@ com.tencent.androidqqmail
 com.follow.clashx
 ws.stash.app
 com.apkpure.aegon
+com.appshub.liclash
