@@ -124,3 +124,5 @@ com.tencent.androidqqmail
 com.follow.clashx
 ws.stash.app
 com.apkpure.aegon
+org.cromite.cromite
+com.kiwibrowser.browser
